@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question_text": "<strong>Q1. Consider the following Python code snippet. What is the output?</strong><pre><code>def greet(name):\n    print('Hello, ' + name)\ngreet('World')</code></pre>",
+      "type": "mcq",
+      "options": [
+        "Hello, World",
+        "Hello, name",
+        "Error",
+        "None"
+      ],
+      "correct_option": 0,
+      "marks": 10
+    },
+    {
+      "question_text": "<strong>Q2. Write a function in JavaScript to sum an array of numbers.</strong>",
+      "type": "coding",
+      "title": "Sum an array of numbers",
+      "difficulty": "Easy",
+      "marks": 20,
+      "test_cases": []
+    }
+  ]
+}
